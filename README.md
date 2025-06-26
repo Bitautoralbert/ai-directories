@@ -75,6 +75,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 
 ## B 
 - [Based Tools](https://www.basedtools.ai/) - The most Based AI Directory.
+- [Best-AI-Tools](https://www.best-ai-tools.org/) - Find free, open source & GDPR compliant AI Tools & LLM´s
 - [Beyond AI Tools](https://www.beyondaitools.com/) - AI tools, solutions, best practices, and more — all with multilingual support, aiming to foster AI adoption across the globe.
 - [Byblos AI](https://byblosai.com/) - Find AI tools and software using an AI search
 
